@@ -1949,42 +1949,12 @@ div.mouse span.scroll-down {
   padding: 10px;
   background-color: #F4F6F9
 }
-.stats {
+.mid-banner {
   background: url("../img/stats-bg.jpg") no-repeat center center;
   background-size: cover
 }
-.stats i.icon {
-  font-size: 50px;
-  display: inline-block;
-  margin-right: 10px;
-  vertical-align: 10px;
-  color: #fff
-}
-.stats .stats-wrapper {
-  display: inline-block
-}
-.stats p.stats-number {
-  font-family: Montserrat, Georgia, "Times New Roman", serif;
-  font-size: 48px;
-  color: #fff
-}
-.stats p.stats-text {
-  font-size: 15px;
-  font-weight: 500;
-  line-height: .7;
-  padding: 0;
-  text-transform: uppercase;
-  color: #fff
-}
-.stats .stats-container {
-  text-align: center;
-  border-right: solid 1px rgba(255, 255, 255, 0.25)
-}
-.stats .stats-container:last-of-type {
-  border-right: none
-}
-.stats .stats-number {
-  text-align: left
+.mid-banner-caption {
+  color: #F4F6F9;
 }
 .crew article.crew-member {
   position: relative;
